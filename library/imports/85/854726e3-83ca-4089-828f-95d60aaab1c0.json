@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Screenshot_2019-06-13-13-16-08",
+    "texture": "cc8438a9-a97f-4e57-a6cf-ba83debb6a53",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      900,
+      1600
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      900,
+      1600
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

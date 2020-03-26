@@ -1,0 +1,95 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "airplane.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "Jishen_W0": {
+      "__uuid__": "1985d5a5-877b-4f04-b801-d5decd24cd08"
+    },
+    "Jishen_W1": {
+      "__uuid__": "aae93fd1-82df-48ec-ba8d-d0a689afbd95"
+    },
+    "Jishen_W2": {
+      "__uuid__": "a2249ca0-7468-498b-9ce7-f53e824a2d7b"
+    },
+    "Jishen_W3": {
+      "__uuid__": "7e103cfd-1339-49a9-a826-5a47f019d7f5"
+    },
+    "Jishen_W4": {
+      "__uuid__": "3953469a-32f2-4d18-a6a4-e0ecc6f60aef"
+    },
+    "Jishen_W5": {
+      "__uuid__": "ded5195b-f8b9-40ec-a702-fc202e20fffc"
+    },
+    "Jishen_W6": {
+      "__uuid__": "a2dff62d-4fbe-4977-bacc-04fc52b74046"
+    },
+    "Jishen_W7": {
+      "__uuid__": "ae6f987d-4ac8-4fdf-8932-165d21dc65e2"
+    },
+    "Jishen_W8": {
+      "__uuid__": "72960367-a734-43b3-99fa-944cb3c5aebc"
+    },
+    "Jishen_W9": {
+      "__uuid__": "5ca226f0-fab7-4936-ac31-927431e93951"
+    },
+    "dot_wave": {
+      "__uuid__": "67328ab4-883f-4064-8367-f9f0452d788f"
+    },
+    "glow": {
+      "__uuid__": "caff904a-bd53-4338-b892-cbbbb4aed720"
+    },
+    "jishen2": {
+      "__uuid__": "270a9f67-9d96-47fa-ac1e-aec54512d9af"
+    },
+    "jitou": {
+      "__uuid__": "b48466a8-3d81-463b-aab6-419b1b3dbeb6"
+    },
+    "jitou2": {
+      "__uuid__": "ca403f25-a3e6-4e97-81cf-f07af4e00d2f"
+    },
+    "subWeapon1": {
+      "__uuid__": "c64136ad-8f34-4c5a-ab02-efd184002214"
+    },
+    "subWeapon2": {
+      "__uuid__": "89c361dc-ec5a-4254-af87-6313ad5b4ead"
+    },
+    "subWeapon3": {
+      "__uuid__": "56854d74-6385-4dfe-b23c-20aca6a5ea7c"
+    },
+    "subWeapon4": {
+      "__uuid__": "08ead49e-613d-484c-a6b6-68b02a4a2e72"
+    },
+    "subWeapon5": {
+      "__uuid__": "cad504a7-94c1-491b-8841-6ded29931927"
+    },
+    "subWeapon6": {
+      "__uuid__": "4bd619e4-a546-41f3-9e21-a5b75ae6002e"
+    },
+    "subWeapon_gray1": {
+      "__uuid__": "9676ae40-2aab-4c79-a8c5-27259caaf7a2"
+    },
+    "subWeapon_gray2": {
+      "__uuid__": "fe4d4adf-e075-4541-89f2-da7503041b08"
+    },
+    "subWeapon_gray3": {
+      "__uuid__": "bb72587e-8dec-438c-a1f6-c805a0138bda"
+    },
+    "subWeapon_gray4": {
+      "__uuid__": "70e2c56a-4bd3-4583-8211-60caad2786f6"
+    },
+    "subWeapon_gray5": {
+      "__uuid__": "f4976433-4fea-402a-b4fe-e2f98b74b708"
+    },
+    "subWeapon_gray6": {
+      "__uuid__": "181a28a0-556a-464b-ac43-ed19e99299eb"
+    },
+    "wing": {
+      "__uuid__": "a80aaccb-9a64-43ed-b57e-4526b921ef36"
+    },
+    "wing2": {
+      "__uuid__": "7ec541b6-63b5-4063-b84d-20edf168797a"
+    }
+  }
+}

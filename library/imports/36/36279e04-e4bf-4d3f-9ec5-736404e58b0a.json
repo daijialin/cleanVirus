@@ -1,0 +1,113 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "view.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "arrUp": {
+      "__uuid__": "4246e404-584e-478d-b9ee-b12f2d3daf84"
+    },
+    "bB_1": {
+      "__uuid__": "30912964-4097-46cb-9081-d5c3e2c4d221"
+    },
+    "bB_2": {
+      "__uuid__": "8fbb425c-ae44-4388-b576-6eb818c72bfd"
+    },
+    "bR_1": {
+      "__uuid__": "aabfad62-77ae-4747-a475-3f62104e5c11"
+    },
+    "bR_2": {
+      "__uuid__": "fcbd6540-186a-4323-bba6-86ae59445aae"
+    },
+    "bY_1": {
+      "__uuid__": "faea5a6b-f202-4ec9-a975-69960816cf3e"
+    },
+    "bY_2": {
+      "__uuid__": "1bd96f3a-4588-4275-907a-58b47cc07e62"
+    },
+    "bb1": {
+      "__uuid__": "118ba575-b320-4ce2-a0a1-045b5abd44dc"
+    },
+    "bb2": {
+      "__uuid__": "5ab57faa-1c07-4641-af67-a1281a63077b"
+    },
+    "bb4": {
+      "__uuid__": "c3b7e68b-2fc1-4e3a-9e1f-18252f319c8a"
+    },
+    "bb6": {
+      "__uuid__": "fedd9bb7-9ab6-4ca0-968a-2175bb7b5a1b"
+    },
+    "bg": {
+      "__uuid__": "4b5752db-c549-480a-bcf9-527d05f1b3ed"
+    },
+    "blackBg": {
+      "__uuid__": "f9e5b1df-e6b4-4ea0-bd61-639235c8043a"
+    },
+    "bor1": {
+      "__uuid__": "71841aaf-4f07-46e7-b181-853dd04e07ed"
+    },
+    "bor2": {
+      "__uuid__": "7e4d3365-607c-4fa4-bf83-e6f2e892ddca"
+    },
+    "boss": {
+      "__uuid__": "6b00bdcf-b281-464d-9a37-973f1ac3db27"
+    },
+    "btnN_1": {
+      "__uuid__": "02b22471-50b0-4c02-a516-eedb91152f22"
+    },
+    "coin": {
+      "__uuid__": "4da57926-d110-4758-8306-d16522f213f1"
+    },
+    "coinLight": {
+      "__uuid__": "a0b2d791-f7eb-4843-972a-6c09e2f57cc2"
+    },
+    "icmain": {
+      "__uuid__": "c5a648f6-d5fb-46c8-89be-740bde8d03d2"
+    },
+    "icnBg_1": {
+      "__uuid__": "9ebe8ea3-9a82-49e4-8b81-d7d5736202c3"
+    },
+    "icnBg_2": {
+      "__uuid__": "f459add8-3598-47ba-abd8-46c5f2071b43"
+    },
+    "icnBg_3": {
+      "__uuid__": "e41b102c-6bae-4a53-9cf5-db8a44489eca"
+    },
+    "ictili1": {
+      "__uuid__": "724ec873-304b-43cd-90c1-11c61da5297b"
+    },
+    "icvideo": {
+      "__uuid__": "19987478-c091-4c14-8cd7-32bdfa4eb390"
+    },
+    "iczuan1": {
+      "__uuid__": "45acaab6-f37b-4167-81f9-7e440aa3a29e"
+    },
+    "plus": {
+      "__uuid__": "9b362dd8-1345-4de6-9c4c-3f9120e94a66"
+    },
+    "relife_timeBg": {
+      "__uuid__": "758a535f-6264-4b35-a93a-37dacf80e1aa"
+    },
+    "tipBg": {
+      "__uuid__": "40fa1643-76c9-49ed-9ef7-2b00f323977d"
+    },
+    "tl2": {
+      "__uuid__": "95063ac3-af82-42b8-ad23-f06c3b971c31"
+    },
+    "xueTiao": {
+      "__uuid__": "e11f830a-9bb8-470b-a3cc-ee1d754f5eb3"
+    },
+    "xueTiaoBg": {
+      "__uuid__": "8f6b4850-359a-4ba4-9e53-4c71c143da46"
+    },
+    "z2": {
+      "__uuid__": "01c5a05c-251e-4570-8449-bf452ba43895"
+    },
+    "z4": {
+      "__uuid__": "acd791b2-c3a4-46d5-92b8-c7fd06a98d9b"
+    },
+    "z5": {
+      "__uuid__": "bbd9acee-1b63-4143-b13c-403946dc4aaf"
+    }
+  }
+}

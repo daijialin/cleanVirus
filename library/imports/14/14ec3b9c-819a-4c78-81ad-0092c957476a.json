@@ -1,0 +1,26 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "goldAnim.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "jb1": {
+      "__uuid__": "5df2cd5f-dbfb-4ec9-8070-2d12a893518d"
+    },
+    "jb2": {
+      "__uuid__": "a3e08e1f-032a-4e31-bf5d-dfdf12b32a2b"
+    },
+    "jb3": {
+      "__uuid__": "ac6df900-b838-4923-987a-7823d7bcac58"
+    },
+    "jb4": {
+      "__uuid__": "bb707866-f952-42be-9a4e-37bf8c2040c9"
+    },
+    "jb5": {
+      "__uuid__": "a207b0f8-4087-40b2-80d0-9bb0e6d70ae1"
+    },
+    "jb6": {
+      "__uuid__": "b6a51848-7162-4ff6-b755-4d9f3240b02c"
+    }
+  }
+}

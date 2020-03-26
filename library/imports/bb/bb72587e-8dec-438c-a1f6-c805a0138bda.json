@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "subWeapon_gray3",
+    "texture": "0e973e7a-2bfb-4319-8466-80aee4175fb7",
+    "atlas": "f6cfb077-ce33-422e-82a6-79b7d11fdebb",
+    "rect": [
+      2,
+      256,
+      183,
+      136
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      183,
+      136
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

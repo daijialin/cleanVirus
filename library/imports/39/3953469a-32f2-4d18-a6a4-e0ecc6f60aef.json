@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Jishen_W4",
+    "texture": "0e973e7a-2bfb-4319-8466-80aee4175fb7",
+    "atlas": "f6cfb077-ce33-422e-82a6-79b7d11fdebb",
+    "rect": [
+      419,
+      707,
+      126,
+      126
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      126,
+      126
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

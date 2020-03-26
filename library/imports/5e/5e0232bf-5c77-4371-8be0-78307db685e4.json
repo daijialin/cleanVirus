@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fanTan1",
+    "texture": "0e4738c2-6508-46d6-beea-8efa30e3a735",
+    "atlas": "da41918f-dd1b-4c68-8ada-c90288b6d9d4",
+    "rect": [
+      2,
+      447,
+      43,
+      44
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      43,
+      44
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

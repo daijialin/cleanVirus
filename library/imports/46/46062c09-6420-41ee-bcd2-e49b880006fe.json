@@ -1,0 +1,35 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "dieAnim.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "a1 (4)": {
+      "__uuid__": "180de0bf-5ed3-4e97-94b1-8a8107e1be9c"
+    },
+    "a2 (3)": {
+      "__uuid__": "d5def84f-b0ca-4a10-9368-de8c8e6e54e5"
+    },
+    "a3 (2)": {
+      "__uuid__": "9c398de5-8bc1-43a8-a9fd-b522578bac0d"
+    },
+    "a4": {
+      "__uuid__": "87a8d991-2df4-4ae8-b87d-86f78f83392f"
+    },
+    "a5 (2)": {
+      "__uuid__": "3bc039ab-add1-43a3-bbfb-b68d536070a2"
+    },
+    "a6 (2)": {
+      "__uuid__": "5f0304f5-cd53-4009-a18b-fa9ca6b584f4"
+    },
+    "a7": {
+      "__uuid__": "daf1fdb7-d9b8-4c59-b36a-6733320386a5"
+    },
+    "a8": {
+      "__uuid__": "5a87c96c-f022-469b-86a9-2c3060d908bb"
+    },
+    "a9": {
+      "__uuid__": "4e5bb5e2-9ce1-4d8f-b701-3d9dcb69791a"
+    }
+  }
+}

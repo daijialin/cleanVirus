@@ -1,0 +1,83 @@
+2020-03-25T01:36:22.990Z - normal: Load ~/.CocosCreator/settings.json
+2020-03-25T01:36:23.045Z - normal: Initializing Asset Database
+2020-03-25T01:36:23.048Z - normal: checking language setting...
+2020-03-25T01:36:23.049Z - normal: Language: zh
+2020-03-25T01:36:23.712Z - success: preview server running at http://localhost:7456
+2020-03-25T01:36:23.716Z - success: protocol editor-framework registered
+2020-03-25T01:36:23.716Z - success: protocol app registered
+2020-03-25T01:36:23.716Z - success: protocol theme registered
+2020-03-25T01:36:23.716Z - success: protocol packages registered
+2020-03-25T01:36:23.716Z - success: protocol uuid registerred
+2020-03-25T01:36:23.717Z - success: protocol db registerred
+2020-03-25T01:36:23.717Z - success: protocol thumbnail registerred
+2020-03-25T01:36:23.717Z - success: protocol unpack registerred
+2020-03-25T01:36:23.717Z - success: protocol disable-commonjs registerred
+2020-03-25T01:36:23.905Z - normal: connected!
+2020-03-25T01:36:23.908Z - normal: Check project C:\Users\谋忠\Desktop\cleanVirus
+2020-03-25T01:36:23.913Z - normal: Initializing project C:\Users\谋忠\Desktop\cleanVirus
+2020-03-25T01:36:23.983Z - success: adapters loaded
+2020-03-25T01:36:23.990Z - success: asset-db-debugger loaded
+2020-03-25T01:36:24.088Z - success: fb-audience-network loaded
+2020-03-25T01:36:24.130Z - success: fb-live-stream loaded
+2020-03-25T01:36:24.136Z - success: google-play-instant loaded
+2020-03-25T01:36:24.149Z - success: huawei-runtime loaded
+2020-03-25T01:36:24.151Z - success: jkw-adapter loaded
+2020-03-25T01:36:24.153Z - success: jsb-adapter loaded
+2020-03-25T01:36:24.164Z - success: oppo-runtime loaded
+2020-03-25T01:36:24.183Z - success: package-manager loaded
+2020-03-25T01:36:24.185Z - success: qtt-adapter loaded
+2020-03-25T01:36:24.206Z - success: runtime-dev-tools loaded
+2020-03-25T01:36:24.214Z - success: sdkbox loaded
+2020-03-25T01:36:24.220Z - success: ui-kit-preview-extra loaded
+2020-03-25T01:36:24.225Z - success: ui-kit-preview loaded
+2020-03-25T01:36:24.242Z - success: vivo-runtime loaded
+2020-03-25T01:36:24.245Z - success: alipay-minigame loaded
+2020-03-25T01:36:24.285Z - success: assets loaded
+2020-03-25T01:36:24.289Z - success: baidugame-opendata loaded
+2020-03-25T01:36:24.292Z - success: baidugame loaded
+2020-03-25T01:36:24.295Z - success: builder loaded
+2020-03-25T01:36:24.465Z - success: cocos-services loaded
+2020-03-25T01:36:24.469Z - success: console loaded
+2020-03-25T01:36:24.480Z - success: fb-instant-games loaded
+2020-03-25T01:36:24.483Z - success: game-window loaded
+2020-03-25T01:36:24.484Z - success: google-instant-games loaded
+2020-03-25T01:36:24.488Z - success: hierarchy loaded
+2020-03-25T01:36:24.491Z - success: inspector loaded
+2020-03-25T01:36:24.959Z - success: cpk-publish loaded
+2020-03-25T01:36:24.970Z - success: keystore loaded
+2020-03-25T01:36:24.977Z - success: node-library loaded
+2020-03-25T01:36:24.978Z - success: open-recent-items loaded
+2020-03-25T01:36:24.981Z - success: package-asset loaded
+2020-03-25T01:36:24.982Z - success: preferences loaded
+2020-03-25T01:36:24.983Z - success: project-exporter loaded
+2020-03-25T01:36:24.986Z - success: project-importer loaded
+2020-03-25T01:36:24.988Z - success: project-settings loaded
+2020-03-25T01:36:25.003Z - success: qtt-runtime loaded
+2020-03-25T01:36:25.007Z - success: scene loaded
+2020-03-25T01:36:25.008Z - success: simulator-debugger loaded
+2020-03-25T01:36:25.009Z - success: sprite-editor loaded
+2020-03-25T01:36:25.010Z - success: store loaded
+2020-03-25T01:36:25.013Z - success: timeline loaded
+2020-03-25T01:36:25.016Z - success: wechatgame-opendata loaded
+2020-03-25T01:36:25.020Z - success: wechatgame loaded
+2020-03-25T01:36:25.025Z - success: xiaomi-runtime loaded
+2020-03-25T01:36:26.002Z - normal: Initializing Cocos2d
+2020-03-25T01:36:27.340Z - normal: Initializing engine extends
+2020-03-25T01:36:29.208Z - info: Cocos Service load base data!
+2020-03-25T01:36:37.214Z - normal: Loading packages
+2020-03-25T01:36:37.251Z - normal: Watching packages
+2020-03-25T01:36:37.971Z - normal: Run Application
+2020-03-25T01:36:42.558Z - warn: 'cc.renderer.renderEngine.gfx' is deprecated, please use 'cc.gfx' instead.
+2020-03-25T01:36:42.559Z - error: The base class to extend from must be non-nil
+    at Object.cc.errorID (D:\del\2.2.2\resources\engine\bin\.cache\dev\cocos2d\core\CCDebug.js:165:16)
+    at Object.extend (D:\del\2.2.2\resources\engine\bin\.cache\dev\cocos2d\core\platform\js.js:81:28)
+    at C:\Users\谋忠\Desktop\cleanVirus\temp\quick-scripts\assets\script\shader\lib\CustomMaterial.js:43:8
+    at __define (C:\Users\谋忠\Desktop\cleanVirus\temp\quick-scripts\assets\script\shader\lib\CustomMaterial.js:106:2)
+    at C:\Users\谋忠\Desktop\cleanVirus\temp\quick-scripts\assets\script\shader\lib\CustomMaterial.js:163:13
+    at Object.<anonymous> (C:\Users\谋忠\Desktop\cleanVirus\temp\quick-scripts\assets\script\shader\lib\CustomMaterial.js:170:11)
+    at Object.<anonymous> (C:\Users\谋忠\Desktop\cleanVirus\temp\quick-scripts\assets\script\shader\lib\CustomMaterial.js:173:3)
+    at Module._compile (internal/modules/cjs/loader.js:839:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:851:10)
+2020-03-25T01:38:09.484Z - info: 只有预制节点 "Virus" 及其子节点会被保存。
+2020-03-25T01:38:10.152Z - info: 只有预制节点 "Virus" 及其子节点会被保存。
+2020-03-25T01:38:55.323Z - info: shutdown preview server

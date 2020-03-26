@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dieAnim",
+    "texture": "0b384479-2f6f-4699-8744-c5508c4ec2d7",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      1014,
+      968
+    ],
+    "offset": [
+      -3,
+      26
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

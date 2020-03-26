@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "flameAnim",
+    "texture": "22723bba-8cc1-4fd6-948e-d23a7d9602ee",
+    "atlas": "",
+    "rect": [
+      8,
+      5,
+      464,
+      493
+    ],
+    "offset": [
+      -16,
+      4.5
+    ],
+    "originalSize": [
+      512,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

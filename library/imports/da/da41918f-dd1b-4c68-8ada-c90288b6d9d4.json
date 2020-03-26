@@ -1,0 +1,17 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "subWeapon1.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "fanTan": {
+      "__uuid__": "fde0e2d3-ba07-4b4b-ba95-b5d74ade985c"
+    },
+    "fanTan1": {
+      "__uuid__": "5e0232bf-5c77-4371-8be0-78307db685e4"
+    },
+    "fanTan2": {
+      "__uuid__": "9d6fee7d-3d15-4961-979a-45ecc9d0a398"
+    }
+  }
+}

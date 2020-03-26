@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "db01_RS",
+    "texture": "f2c1a19a-99c2-496e-b0cc-d38bbc6e197b",
+    "atlas": "4320884b-a3f7-40d4-b225-fe91f7761f4c",
+    "rect": [
+      165,
+      185,
+      59,
+      70
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      59,
+      70
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
